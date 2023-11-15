@@ -1,0 +1,6 @@
+{
+    "nombre": "API REST - POLEA - dev",
+    "dbConfig": {
+        "host": "dev-db-server"
+    }
+}
